@@ -12,7 +12,6 @@
   - [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 - <b>Active Directory</b>
-  - [Preparing Active Directory in Azure](https://github.com/AlanG099/osticket-prereqs)
   - [Managing Accounts and Group Policies](https://github.com/AlanG099/osticket-prereqs)
   - [File Shares and Permissions](https://github.com/AlanG099/osticket-prereqs)
 
