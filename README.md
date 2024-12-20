@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Performing Network Activities using Wireshark within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Performing Network Activities using Wireshark within Azure VMs](https://github.com/AlanG099/Networking-in-Azure-VMs.git)
   - [Configuring a Network Security Group within Azure VMs](https://github.com/joshmadakorcc/azure-network-protocols)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
